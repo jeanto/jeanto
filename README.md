@@ -1,4 +1,4 @@
-*   [Personal site](https://jeanto.github.io/jeannunes/)
+*   <a href="https://jeanto.github.io/jeannunes/" target="_blank">Personal site</a>
 *   [About](#about)
 *   [Experience](#experience)
 *   [Education](#education)
