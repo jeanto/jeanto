@@ -155,7 +155,7 @@ Courses
 
 Python Programming
 
-[Python Programming Course (Notebook)](https://github.com/jeanto/python_programming_course_notebook)
+[Python Programming Course (Notebook)](https://github.com/jeanto/python_programming_course_notebook.git)
 
 Data Structure Programming
 
