@@ -103,7 +103,7 @@ Master degree
 
 [Electrical Engineering Postgraduate Program](https://www.ppgee.ufmg.br/)
 
-[Dissertation: Investigating multicriteria approaches for the routing problem in ad-hoc wireless networks using QoS-aware metrics](https://repositorio.ufmg.br/handle/1843/31680))
+[Dissertation: Investigating multicriteria approaches for the routing problem in ad-hoc wireless networks using QoS-aware metrics](https://repositorio.ufmg.br/handle/1843/31680)
 
 March 2016 - May 2018
 
