@@ -22,8 +22,6 @@ Experience
 
 ### CyberSecurity Analyst
 
-Tribunal de Justica do Distrito Federal
-
 Team member and information security management.
 
 April 2023 - Present
