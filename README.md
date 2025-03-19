@@ -11,7 +11,7 @@ Jean Nunes, PhD
 
 Brasília · DF · [jean.to@gmail.com](mailto:jean.to@gmail.com)
 
-I received my M.Sc. and D.Sc. degree in Electrical Engineering from Universidade Federal de Minas Gerais (UFMG) and B.Sc. degree in Information System from Faculdade Católica do Tocantins (FACTO) (2009). I am currently a CyberSecurity Analyst at Tribunal de Justica do Distrito Federal and IT Professor at IDP (DF).
+I received my M.Sc. and D.Sc. degree in Electrical Engineering from Universidade Federal de Minas Gerais (UFMG) and B.Sc. degree in Information System from Faculdade Católica do Tocantins (FACTO) (2009). I am currently a CyberSecurity Analyst and IT Professor.
 
 [](https://www.linkedin.com/in/jeannra)
 
