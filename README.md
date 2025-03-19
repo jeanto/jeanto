@@ -93,6 +93,8 @@ PH.D. Student
 
 [Electrical Engineering Postgraduate Program](https://www.ppgee.ufmg.br/)
 
+[Thesis: Diversity-driven migration strategy for distributed evolutionary algorithms applied to large-scale optimization problems](https://repositorio.ufmg.br/handle/1843/59128)
+
 September 2018 - Present
 
 ### Universidade Federal de Minas Gerais (UFMG)
